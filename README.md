@@ -20,5 +20,15 @@ https://alk573114065.github.io/e-commerce-layout-PRAC/
 
 
 
+##  製作過程介紹的小筆記 
+
+https://github.com/alk573114065/LearningAreaExperience/blob/main/Share%20Learning%20Experience.md
+
+
+
+
+
+
+
 ##  Contributor - 專案開發人員
 [Liling Liu](https://github.com/alk573114065)
