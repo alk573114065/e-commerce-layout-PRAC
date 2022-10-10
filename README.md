@@ -9,9 +9,14 @@ Desktop screen
 ![image](https://github.com/alk573114065/e-commerce-layout-PRAC/blob/main/image/Deskep_Screen.png)
 
 
+Mobile screen 
 ![image](https://github.com/alk573114065/e-commerce-layout-PRAC/blob/main/image/Mobile_Screen.png)
 
 
+
+
+##  github page
+https://alk573114065.github.io/e-commerce-layout-PRAC/
 
 
 
